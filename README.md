@@ -2,16 +2,19 @@
 ### Visitor count
 <img src="https://profile-counter.glitch.me/Chiro2002/count.svg" />
 
+<!--
 ## 🔔 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 ![Metrics](https://metrics.lecoq.io/Chiro2002?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
+-->
 
 
+<!--
 <p align="center" >  
   <a href="https://github.com/Chiro2002/github-readme-stats"> 
 <img  src="https://github-readme-stats.vercel.app/api?username=Chiro2002&&show_icons=true&theme=radical"/>
   </a>
 </p>
-
+-->
 
 
 <!--
